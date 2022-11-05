@@ -12,3 +12,7 @@ innerProduct.py -- the code for calculate the inner product and draw barplots.
 
 PlotExpression.py -- the code for plot the expression value of genes and calcualte the cos correlation coefficient.
 
+ADgene.xls -- the GSE1297 data.
+
+Neural Network data.xlsx -- the data for training and test neural network.
+
