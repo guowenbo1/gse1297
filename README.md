@@ -16,3 +16,5 @@ ADgene.xls -- the GSE1297 data.
 
 Neural Network data.xlsx -- the data for training and test neural network.
 
+svm.py -- the code for train and the the svm model, plot the ROC cure and result figure.
+
